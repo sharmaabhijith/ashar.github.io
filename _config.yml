@@ -66,14 +66,14 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: sharmaabhijith # your GitHub user name
 gitlab_username: # your GitLab user name
-x_username: EricSlyman # your X handle
+x_username: # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: https://www.linkedin.com/in/abhijith-sharma/
+linkedin_username: abhijith-sharma
 telegram_username: # your Telegram user name
-scholar_userid: HruWYeIAAAAJ # your Google Scholar ID
+scholar_userid: RcUHBFEAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-orcid_id: 0000-0002-2481-7942 # your ORCID ID
+orcid_id: 0000-0002-4592-2928 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
@@ -101,7 +101,7 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  Reach me via email at slymane[at]oregonstate[dot]edu
+  Reach me via email at abhijith[dot]sharma[dot]ubc[at]gmail[dot]com
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
