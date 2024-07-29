@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ashar.github.io/sitemap.xml
+Sitemap: https://sharmaabhijith.github.io/sitemap.xml
