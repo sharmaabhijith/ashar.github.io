@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: AI/CS Ph.D Student, Oregon State University
+subtitle: <strong> Associate Researcher @ </strong> <a href='https://uwaterloo.ca/'> University of Waterloo</a>  | M.Sc. Comp Sci @ </strong> <a href='https://www.ubc.ca/'>The University of British Columbia</a>.
 
 profile:
   align: right
-  image: me.jpeg
+  image: DP.jpg
   image_circular: true
   more_info: >
 news: true  # includes a list of news items
@@ -15,8 +15,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi Folks! I am a Ph.D. student at the intersection of multimodal AI, human-computer interaction, and fairness in the [Artificial Intelligence](https://eecs.oregonstate.edu/ai-degree-program) and [Computer Science](https://eecs.oregonstate.edu/academics/graduate/cs) programs at Oregon State University, where I'm advised by [Stefan Lee](https://web.engr.oregonstate.edu/~leestef/) (and [Minsuk Kahng](https://minsuk.com/) before his relocation to Google).
+**Namaste`** 🙏 **Hello** 👋
 
-My research evaluates large-scale vision-language models like CLIP, ViLBERT, LLaVA, and DALL-E. I enjoy auditing the real-world steps to get these models in production and determining mitigations to help promote fair outcomes. Frequently, this leads to human-centered methods that consider the entire lifecycle of a model: from data collection to deployment.
+I am an Associate Research Engineer at [University of Waterloo](https://uwaterloo.ca/autonomous-vehicle-research-intelligence-lab/) Research with [AVL](https://www.avl.com/en), working on building adversarial testing framework for autonomous vehicles. I am also a part-time ML developer with [Palitronica](https://www.palitronica.com/).
 
-In addition to research, I am also the Co-President of OSU's [AI Graduate Student Association](https://www.aigsa.club/), where I organize social and professional events for our AI community and run the [AI Application Support Program](https://www.aigsa.club/aiasp/) to provide application advising assistance to underrepresented people applying to graduate school.
+Previously, I was a thesis-based master's in computer science student at the [University of British Columbia (UBC)](https://www.ubc.ca/). I researched safeguarding vision models against physical adversaries [(find here)](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0435778?o=0) under the supervision of [Dr. Apurva Narayan](https://a-narayan.github.io/).  I was an [MITACS Accelerate](https://www.mitacs.ca/en/programs/accelerate) intern with [Troj AI Inc](https://troj.ai/). where I worked under the mentorship of Phil Munz. I am passionate about building reliable/robust AI models for safety critical applications.
+
+Before I joined UBC, I was a Decision Analytics Associate at [ZS Associates](https://www.zs.com/). I was also privileged to be part of [COEP-SAT-2](https://en.wikipedia.org/wiki/Swayam) where I worked on the priliminary control system design. I received my bachelor's in Instrumentation and Control Engineering with the *Gold Medal* at the [College of Engineering, Pune](https://www.coep.org.in/), India. 
+
+In my leisure time, I like playing squash. Since last year, I have also been invested in learning world history and its impact on modern culture. 
